@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1366667950 source:c:\users\tigralt\workspace\zombie\main.cpp
+	<allegro.h>
+	"acteurs.h"
+
+1366663657 source:c:\users\tigralt\workspace\zombie\acteurs.cpp
+	"acteurs.h"
+
+1366667936 c:\users\tigralt\workspace\zombie\acteurs.h
+	<stdio.h>
+	<allegro.h>
+	<math.h>
+
+1366715567 source:\\ntuser.ece.fr\users\etudiants\ece\ing2017\cabanes\mesdocs\workspace\zombie\main.cpp
+	<allegro.h>
+	"acteurs.h"
+
+1366715537 \\ntuser.ece.fr\users\etudiants\ece\ing2017\cabanes\mesdocs\workspace\zombie\acteurs.h
+	<stdio.h>
+	<allegro.h>
+	<math.h>
+
+1366715768 source:\\ntuser.ece.fr\users\etudiants\ece\ing2017\cabanes\mesdocs\workspace\zombie\acteurs.cpp
+	"acteurs.h"
+
